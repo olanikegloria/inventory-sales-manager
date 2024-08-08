@@ -89,7 +89,7 @@ My favorite part of the project is **adding input validation with Joi**. It ensu
 
 ## 📹 Video Demo
 
-Check out the video demo of the project: [Watch Demo](video-demo-link.com) 🎥
+Check out the video demo of me testing the api routes in postman [Watch Demo](https://www.loom.com/share/8a761e94ce7e4552bbc5775bc1d4a76f?sid=aee4cd8a-194d-41be-845e-2f52f9382548) 🎥
 
 ## 📝 Documentation
 
@@ -97,7 +97,7 @@ For detailed documentation, refer to the code comments and the `README` file pro
 
 ## 💬 Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
+Feel free to contribute to the project by opening issues or submitting pull requests. 
 
 ## 🖤 Thanks for Visiting!
 
